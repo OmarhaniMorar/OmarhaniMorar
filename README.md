@@ -24,5 +24,13 @@
 - LinkedIn: https://www.linkedin.com/in/omar-morar/
 - Email: se.omarmorar@gmail.com
 
+## 📊 GitHub Stats
+
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarhaniMorar&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarhaniMorar&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=OmarhaniMorar)
+
 ---
 ⭐️ From [OmarhaniMorar](https://github.com/OmarhaniMorar)
