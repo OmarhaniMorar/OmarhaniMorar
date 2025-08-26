@@ -8,7 +8,6 @@
 - 🌍 Based in: Jordan
 
 ## 🛠️ Skills
-## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
